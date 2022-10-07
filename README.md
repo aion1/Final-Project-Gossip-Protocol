@@ -35,7 +35,3 @@ typedef struct MessageHdr {
 	$ chmod +x GraderNew.sh
 	$ ./GraderNew.sh
 ```
-# Result
-*	Points achieved: 90 out of 90 [100%]
-	
-# Final-Project-Gossip-Protocol
